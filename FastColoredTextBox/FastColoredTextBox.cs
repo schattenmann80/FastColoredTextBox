@@ -8565,7 +8565,6 @@ window.status = ""#print"";
         Down = 8
     }
 
-    [Serializable]
     public class ServiceColors
     {
         public Color CollapseMarkerForeColor { get; set; }
